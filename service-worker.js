@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d1f6445024e70d429210c85822ccbdb2"
+    "revision": "baa1ed7492fd2ebf788fa1bcf6f38a63"
   },
   {
-    "url": "assets/css/0.styles.9e70078a.css",
-    "revision": "ce4d27f1d5c989da1e7c6ca7edf6eaa4"
+    "url": "assets/css/0.styles.8206c5b7.css",
+    "revision": "dfd97e960c236f3843d45a22542fc0d9"
   },
   {
     "url": "assets/img/create-assignement.038e5207.png",
@@ -36,32 +36,32 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.c5709efb.js",
-    "revision": "d0dd702b3a669236b2ede3bce428b984"
+    "url": "assets/js/10.e59be3bf.js",
+    "revision": "70deaf4ef9145495212cd757262733e2"
   },
   {
-    "url": "assets/js/2.fd87e717.js",
-    "revision": "8479f4a7f12b16949c704d4066122411"
+    "url": "assets/js/2.8191deb1.js",
+    "revision": "33720e5a89b574fa6d31900597a3f0af"
   },
   {
-    "url": "assets/js/3.c69f3da4.js",
-    "revision": "fc836834e996b5953e45f229e6f20f93"
+    "url": "assets/js/3.9c3ffd0d.js",
+    "revision": "e43e97bbd7c2e97c1cb703c59cf8316c"
   },
   {
-    "url": "assets/js/4.30445dfa.js",
-    "revision": "094fd3fa74923aae9b08f6d1d7d51ad1"
+    "url": "assets/js/4.78e6b2fe.js",
+    "revision": "532b7ae058684c701e73463d85cf790b"
   },
   {
-    "url": "assets/js/5.684154bf.js",
-    "revision": "433345f674c5706c0ac46c93d60e62a5"
+    "url": "assets/js/5.4849e5ac.js",
+    "revision": "253dcb75e0a93190f732344a3a877796"
   },
   {
-    "url": "assets/js/6.c0aa3fa9.js",
-    "revision": "b181d08ba36ec00e085ef6bf53129e23"
+    "url": "assets/js/6.8ff62548.js",
+    "revision": "494153255d5ef8757704ffd3fe577355"
   },
   {
-    "url": "assets/js/7.3d84d70f.js",
-    "revision": "023319a3cf878fd3c0e003fbb9619b39"
+    "url": "assets/js/7.5d59a2a4.js",
+    "revision": "cbcea53e261006249ac7c373c3b75f10"
   },
   {
     "url": "assets/js/8.189696dc.js",
@@ -72,20 +72,20 @@ self.__precacheManifest = [
     "revision": "f7d0e07d7200e23d8c0f5d98b67884b1"
   },
   {
-    "url": "assets/js/app.a219afb2.js",
-    "revision": "07a748a3f80225dd500018a25e02ca47"
+    "url": "assets/js/app.f46c7ac3.js",
+    "revision": "b15b76d74a266a011a2b3bd19d2eab61"
   },
   {
     "url": "fr/index.html",
-    "revision": "156abba4845631027b86fac723c6b059"
+    "revision": "cebbe20768e1e9bd2ba53d4c75caf392"
   },
   {
     "url": "fr/post/Slasgear/github-classroom-pourquoi-le-tester.html",
-    "revision": "7b3d43709248708d0f7ed1575c66e854"
+    "revision": "263ff0aac04a1fde97526a71b3d24969"
   },
   {
     "url": "index.html",
-    "revision": "5c3fb26e834266a5b14539c0b05eeb91"
+    "revision": "aecf52e6ce0d804585ea98b8bfadf999"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
