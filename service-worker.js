@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "336a331f130714c9ee5651c86d17dce3"
+    "revision": "615c2577a227ec54522e5be41f2c2c02"
   },
   {
     "url": "assets/css/0.styles.6fff224e.css",
@@ -84,28 +84,28 @@ self.__precacheManifest = [
     "revision": "de344b48b5102dd9f18985e4e0373207"
   },
   {
-    "url": "assets/js/app.8e6912cd.js",
-    "revision": "ea33b7fdcd6adf0af12d3e2ed82c76cd"
+    "url": "assets/js/app.1ea4a257.js",
+    "revision": "6e336d07ce9095cec49a2e4a13a0d3f7"
   },
   {
     "url": "contributing.html",
-    "revision": "316cb63ab91db1c0e8959340d92d49ea"
+    "revision": "ed7fc266d38f8f08c628be959cc26656"
   },
   {
     "url": "fr/index.html",
-    "revision": "463fe0b1297224d8cd2cc0f69d4017dc"
+    "revision": "4a1a5bf4930d186906a1aa72c2efadc9"
   },
   {
     "url": "fr/post/Slasgear/github-classroom-pourquoi-le-tester.html",
-    "revision": "2b5c8e1ef5d52c7b43f743e4e9e2ff87"
+    "revision": "43794ceb367d7fb61243eee22371409e"
   },
   {
     "url": "index.html",
-    "revision": "19182e341303d97655a4df3411a343f8"
+    "revision": "909260e628e190b96f32974298683ac0"
   },
   {
     "url": "post/Slashgear/creating-an-image-lazy-loading-component-with-react.html",
-    "revision": "35ce8e9240ee33fa4078726327a60f67"
+    "revision": "919f4822bcff75b3d7a9a6817b79ac55"
   },
   {
     "url": "Slashgear/github-classroom-logo.jpg",
