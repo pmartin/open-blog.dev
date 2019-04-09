@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5c36e38586158cdf0035cb9dd4ddb9df"
+    "revision": "d723d65dae0db9a2c58205ee6b8f269a"
   },
   {
-    "url": "assets/css/0.styles.6fff224e.css",
-    "revision": "024adb057d03f673097a3dd2e3de240c"
+    "url": "assets/css/0.styles.1a24ba94.css",
+    "revision": "1509d0c0fecac9a094494585be9c2a81"
   },
   {
     "url": "assets/img/create-assignement.038e5207.png",
@@ -40,72 +40,76 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.4122612c.js",
-    "revision": "7c69864b9dc2a9d30420fd338aea7851"
+    "url": "assets/js/10.23d9d773.js",
+    "revision": "1a1875d7ee27e6273df28136ec3dd259"
   },
   {
-    "url": "assets/js/11.0386a0c0.js",
-    "revision": "0aa8fa188ce5b9fb85afb5681efcb155"
+    "url": "assets/js/11.7393ed31.js",
+    "revision": "714e046baf6ef6b3b063cddb65df9a71"
   },
   {
-    "url": "assets/js/12.8e2b1efc.js",
-    "revision": "8fdf51499aa5ffa6104bdc245505a691"
+    "url": "assets/js/12.a59b86ae.js",
+    "revision": "7f8073074245871d305894cb0585f9b3"
   },
   {
-    "url": "assets/js/2.ceada549.js",
-    "revision": "a629739634eb5ac7b39ed0424dd304e6"
+    "url": "assets/js/13.38f2b8cc.js",
+    "revision": "b89b2adfe5fa3bad90bf2dfc1d23f860"
   },
   {
-    "url": "assets/js/3.8a84c816.js",
-    "revision": "03204989c6d0a6bd92f6690fee433bd9"
+    "url": "assets/js/3.5229ec25.js",
+    "revision": "52f98e94257ae3b5e0e923dcf3cc2d05"
   },
   {
-    "url": "assets/js/4.016bd1cf.js",
-    "revision": "cabeb4255fef4011368063ca2e484249"
+    "url": "assets/js/4.e4af55aa.js",
+    "revision": "a8379385a37b289364ce2ee90011c494"
   },
   {
-    "url": "assets/js/5.f77cbde1.js",
-    "revision": "b2d9ec283c576691eb046e007a33aae8"
+    "url": "assets/js/5.026900ef.js",
+    "revision": "921aceed2b0535eba60ca78c96635939"
   },
   {
-    "url": "assets/js/6.f3388a59.js",
-    "revision": "c87f6db60976c8597718fe7815675957"
+    "url": "assets/js/6.b610a564.js",
+    "revision": "35c1fd49c2c25be39de940d028c64f03"
   },
   {
-    "url": "assets/js/7.5d59a2a4.js",
-    "revision": "cbcea53e261006249ac7c373c3b75f10"
+    "url": "assets/js/7.3684bb1d.js",
+    "revision": "5a23f2bb72cf565bcedfda7cdf7ef090"
   },
   {
-    "url": "assets/js/8.1b20a4bf.js",
-    "revision": "42214353f5bf2df7606a7e0459540c3e"
+    "url": "assets/js/8.3ecda600.js",
+    "revision": "994384e36e3812b2d3fefb6d800b955e"
   },
   {
-    "url": "assets/js/9.b9915c81.js",
-    "revision": "de344b48b5102dd9f18985e4e0373207"
+    "url": "assets/js/9.c5a5e431.js",
+    "revision": "34c8462fddc3e9d530505de9ea39d342"
   },
   {
-    "url": "assets/js/app.4c3a8a0d.js",
-    "revision": "44e247adf893a418d942ab6d14156666"
+    "url": "assets/js/app.cdb13cc7.js",
+    "revision": "3afd57063ef6eb52b065b9ad92510d06"
+  },
+  {
+    "url": "assets/js/vendors~docsearch.9d0c5001.js",
+    "revision": "08edd9a8fb28e9ba7c0d5086749e1d22"
   },
   {
     "url": "contributing.html",
-    "revision": "b6729fcaf77bb928aafaee0417f07d00"
+    "revision": "3c871bb0bfe5549c85a6253d5725d343"
   },
   {
     "url": "fr/index.html",
-    "revision": "dd41d9f7f7f9d4a2ed8954a2d1ae9be9"
+    "revision": "b3d5bb581ab399a701c4b0fba2a9fbd3"
   },
   {
     "url": "fr/post/Slasgear/github-classroom-pourquoi-le-tester.html",
-    "revision": "abb327e37a4f21b839025b41679f110f"
+    "revision": "868c709324c3b54046ffb6631cb7dc46"
   },
   {
     "url": "index.html",
-    "revision": "30a8f13d8c7da2793a4a5b1cc2c027d5"
+    "revision": "c344b0d5ce0391c5419d274497ba9227"
   },
   {
     "url": "post/Slashgear/creating-an-image-lazy-loading-component-with-react.html",
-    "revision": "e23b26816a5a0c420071185e5a62b2a2"
+    "revision": "f8fa33874cc9306969961be891ec1cb4"
   },
   {
     "url": "Slashgear/github-classroom-logo.jpg",
