@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0195ec93ebdafbed5a3e4748bb0e3fd7"
+    "revision": "4dbd3acbaf2a2074e00b1235721e497e"
   },
   {
     "url": "assets/css/0.styles.d3f2b45c.css",
@@ -40,84 +40,100 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.4c020dd4.js",
-    "revision": "99c77ccb3ccc2727dc908ca404d2a610"
+    "url": "assets/img/vue-cli-complete-size.0d631442.png",
+    "revision": "0d631442de390a6737ca967f30f3263d"
   },
   {
-    "url": "assets/js/11.57344d4c.js",
-    "revision": "9afb437a4a11767c13b437c235f68255"
+    "url": "assets/img/vue-cli-vanilla-size.15d620b4.png",
+    "revision": "15d620b40e592ba0943d30e7a40c5dc2"
   },
   {
-    "url": "assets/js/12.46481c2c.js",
-    "revision": "126ae7d54343547ba623841759b81674"
+    "url": "assets/js/10.d38774ec.js",
+    "revision": "668217cda3e191997184ff6465fbabbc"
   },
   {
-    "url": "assets/js/13.a8e64980.js",
-    "revision": "79072a545a8ff8b4faad93ec15da3d40"
+    "url": "assets/js/11.b9999647.js",
+    "revision": "692e5cfd6e6c3290cacd286593a49387"
   },
   {
-    "url": "assets/js/14.8099a3e8.js",
-    "revision": "d0e768d4cd53fb8a84f35e4b500df2be"
+    "url": "assets/js/12.781c0b4f.js",
+    "revision": "4821d03a36506aa099d87358ddc0126a"
   },
   {
-    "url": "assets/js/15.23efa781.js",
-    "revision": "d6f3ed7105b579662494aad5dd1df983"
+    "url": "assets/js/13.cb644f56.js",
+    "revision": "ed21893c66e2ec0ab84674dba65ada1b"
   },
   {
-    "url": "assets/js/3.d884a169.js",
-    "revision": "496496d0e49c6c903c7483e2a3f99e80"
+    "url": "assets/js/14.d9c5fdb7.js",
+    "revision": "1daa59a7f96acf5777c0cc6a258d1e10"
   },
   {
-    "url": "assets/js/4.b68e15b3.js",
-    "revision": "e980b3f8f193167e75d942202abafd32"
+    "url": "assets/js/15.0649c905.js",
+    "revision": "8093146b967b70dadccd9d2caed308fb"
   },
   {
-    "url": "assets/js/5.1ccc99c0.js",
-    "revision": "6e088614b259cf16db7024dbc7f46fef"
+    "url": "assets/js/16.94e0804a.js",
+    "revision": "5f0db8e6c54df8916e3476bbb506724d"
   },
   {
-    "url": "assets/js/6.46d51126.js",
-    "revision": "93eff89a81c6cf227f3f0a3459835c27"
+    "url": "assets/js/3.d22faf28.js",
+    "revision": "d935dbd6c590196a4217cc4584458216"
   },
   {
-    "url": "assets/js/7.5aa959e4.js",
-    "revision": "5e473e3ad4cf1a8e5fe3518e7667a1e8"
+    "url": "assets/js/4.7ff55092.js",
+    "revision": "984086c4493b0b20f59644599e208d33"
   },
   {
-    "url": "assets/js/8.9e68a46d.js",
-    "revision": "37e9ee53160e2d2957fb192dda9025be"
+    "url": "assets/js/5.99607161.js",
+    "revision": "8c28ea0d4c04bb2d473881283b4895dc"
   },
   {
-    "url": "assets/js/9.9bd3ea0c.js",
-    "revision": "1fb62d811e866d9d7873f496424a87cd"
+    "url": "assets/js/6.651fcd29.js",
+    "revision": "4626a0a6201e69356f175fea7934a8fe"
   },
   {
-    "url": "assets/js/app.4f87c933.js",
-    "revision": "8feb028ab820a9a061ef258474ac0d13"
+    "url": "assets/js/7.f6956f38.js",
+    "revision": "dc7d3ee34d9a21f885c4a06449a39794"
   },
   {
-    "url": "assets/js/vendors~docsearch.7824dab0.js",
-    "revision": "7e5a2fa12b550184fa31888baec90dc1"
+    "url": "assets/js/8.ffbfab5e.js",
+    "revision": "823f649461c18a1895fe3693dfd973ef"
+  },
+  {
+    "url": "assets/js/9.d8cc5157.js",
+    "revision": "7f0a2101b6ec5b97a2bb01dd6e33954b"
+  },
+  {
+    "url": "assets/js/app.e1d965f3.js",
+    "revision": "f63787e466f7982c4552a51e2abd0810"
+  },
+  {
+    "url": "assets/js/vendors~docsearch.e4052979.js",
+    "revision": "8cae1a5115944bee0b9de64e15f10613"
   },
   {
     "url": "contributing.html",
-    "revision": "f21bf364e5d90f235b169c93e74e9161"
+    "revision": "12e308c23ede7441ef26e740035bf85f"
   },
   {
     "url": "fr/index.html",
-    "revision": "24e3d6bdb3c5fefccfc50cd811d8f9fb"
+    "revision": "4700195282a67a2648c12c604b923ed1"
   },
   {
     "url": "fr/post/Slasgear/github-classroom-pourquoi-le-tester.html",
-    "revision": "614cf5d0540e42c07d65064ddcf7dde0"
+    "revision": "aeef377983d3ee288ca4128bfc0cb32c"
   },
   {
     "url": "index.html",
-    "revision": "e2f7c77979a4031d36a98e0ac2229179"
+    "revision": "a6de5616aa55ae1244124513a9ffa4c1"
   },
   {
     "url": "post/Slashgear/creating-an-image-lazy-loading-component-with-react.html",
-    "revision": "bc09b5b3b3aca90557d2e5466f68af82"
+    "revision": "ffc11815e2bc23e08543723c80174dbd"
+  },
+  {
+    "url": "post/Slashgear/why-you-should-use-compression-webpack-plugin.html",
+    "revision": "1bf5049af21367de3f0e16c7d458b81d"
   },
   {
     "url": "Slashgear/github-classroom-logo.jpg",
@@ -126,6 +142,10 @@ self.__precacheManifest = [
   {
     "url": "Slashgear/lazy-load.gif",
     "revision": "d317504fe85779f6a6372964553ba6e8"
+  },
+  {
+    "url": "Slashgear/matt-artz-353260-unsplash.jpg",
+    "revision": "3f17140a22c3c3708af42934c82a3af3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
