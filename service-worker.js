@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4dbd3acbaf2a2074e00b1235721e497e"
+    "revision": "e17ffc4b3650963f7838aee32e6a8f88"
   },
   {
     "url": "assets/css/0.styles.d3f2b45c.css",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "revision": "15d620b40e592ba0943d30e7a40c5dc2"
   },
   {
-    "url": "assets/js/10.d38774ec.js",
-    "revision": "668217cda3e191997184ff6465fbabbc"
+    "url": "assets/js/10.1a56257d.js",
+    "revision": "5c27755f501b86da6083f51945fed346"
   },
   {
     "url": "assets/js/11.b9999647.js",
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "revision": "7f0a2101b6ec5b97a2bb01dd6e33954b"
   },
   {
-    "url": "assets/js/app.e1d965f3.js",
-    "revision": "f63787e466f7982c4552a51e2abd0810"
+    "url": "assets/js/app.c6d87bb8.js",
+    "revision": "af96cba958a7780ca182fac35d0964a2"
   },
   {
     "url": "assets/js/vendors~docsearch.e4052979.js",
@@ -113,27 +113,27 @@ self.__precacheManifest = [
   },
   {
     "url": "contributing.html",
-    "revision": "12e308c23ede7441ef26e740035bf85f"
+    "revision": "27973771fff109c4d0835b5cdcaf22d5"
   },
   {
     "url": "fr/index.html",
-    "revision": "4700195282a67a2648c12c604b923ed1"
+    "revision": "b8daa031243ab356fdb44d22fe4f53bb"
   },
   {
     "url": "fr/post/Slasgear/github-classroom-pourquoi-le-tester.html",
-    "revision": "aeef377983d3ee288ca4128bfc0cb32c"
+    "revision": "9d4cc70f5102031a6a7f72b68778fcb1"
   },
   {
     "url": "index.html",
-    "revision": "a6de5616aa55ae1244124513a9ffa4c1"
+    "revision": "84277668d48675a38c99ac1c7f34e652"
   },
   {
     "url": "post/Slashgear/creating-an-image-lazy-loading-component-with-react.html",
-    "revision": "ffc11815e2bc23e08543723c80174dbd"
+    "revision": "f292b682a7a5040dc3e8d447ca8bd83d"
   },
   {
     "url": "post/Slashgear/why-you-should-use-compression-webpack-plugin.html",
-    "revision": "1bf5049af21367de3f0e16c7d458b81d"
+    "revision": "0f4d3bf473ea833cae4d91ac29438b27"
   },
   {
     "url": "Slashgear/github-classroom-logo.jpg",
