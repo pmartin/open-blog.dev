@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Blog]]></title><description><![CDATA[Share blog posts on an free open platform.]]></description><link>https://open-blog.dev</link><generator>RSS for Node</generator><lastBuildDate>Thu, 06 Jun 2019 06:24:59 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[ContributingOpen blog is before all an open source project to share a publication of blog posts with the community.Developed by the…]]></description><link>https://open-blog.dev/contributing/</link><guid isPermaLink="false">https://open-blog.dev/contributing/</guid><content:encoded>&lt;h1&gt;Contributing&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Blog]]></title><description><![CDATA[Share blog posts on an free open platform.]]></description><link>https://open-blog.dev</link><generator>RSS for Node</generator><lastBuildDate>Fri, 07 Jun 2019 21:25:58 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[ContributingOpen blog is before all an open source project to share a publication of blog posts with the community.Developed by the…]]></description><link>https://open-blog.dev/contributing/</link><guid isPermaLink="false">https://open-blog.dev/contributing/</guid><content:encoded>&lt;h1&gt;Contributing&lt;/h1&gt;
 &lt;p&gt;Open blog is before all an open source project to share a publication of blog posts with the community.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Developed by the community for everyone freely&lt;/p&gt;
@@ -78,17 +78,29 @@ Every website performance analyser will tell you to do it. Here is a size compar
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 61.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAABM0lEQVQoz5VSiUrDQBDt/3+B+hf6BSoiCta2iiB4pAdVSI9ks2d2ZidOuqlN44XDMHkJ72XOnvdeCCE3lmWZUlJrtc5EroAqwqIA56ofrNd+IaZvgMcqzcGVzi9SIwT9KbbWilxIYajhUuun1AERN+IQAoBfLIVYScD4hXas38XcuTF6tcy00JHQ4X0vZhmnRUQuOxdKrlXdOdWZI2jjCHZirTUAbOqE1ySdzFVFseL2mOgL2JbNDwTEAJOXt4ur9/79evikB49ylPjRBNmHHKeBfTDGu1mQjjxQI+bMSilbuvnz9Ozw+Pzo5PSgjteX05uH4jbBT+8nOBxjbsj5eqt7e0YoKfBJAEewRSySgicsIwHAEoW4HZ7R/pFse+ImjG0OyxjrfRwKMY4rLEvfFf/XPgDNJrrq4uYUcgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Vue CLI vanilla size compared to gzip&quot;
-        title=&quot;&quot;
-        src=&quot;/static/15d620b40e592ba0943d30e7a40c5dc2/34e8a/vue-cli-vanilla-size.png&quot;
-        srcset=&quot;/static/15d620b40e592ba0943d30e7a40c5dc2/19bd1/vue-cli-vanilla-size.png 163w,
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/15d620b40e592ba0943d30e7a40c5dc2/50512/vue-cli-vanilla-size.webp 163w,
+/static/15d620b40e592ba0943d30e7a40c5dc2/aeba0/vue-cli-vanilla-size.webp 325w,
+/static/15d620b40e592ba0943d30e7a40c5dc2/965c5/vue-cli-vanilla-size.webp 600w&quot;
+          sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/15d620b40e592ba0943d30e7a40c5dc2/19bd1/vue-cli-vanilla-size.png 163w,
 /static/15d620b40e592ba0943d30e7a40c5dc2/d3bcb/vue-cli-vanilla-size.png 325w,
 /static/15d620b40e592ba0943d30e7a40c5dc2/34e8a/vue-cli-vanilla-size.png 600w&quot;
-        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
-      /&gt;
+          sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/15d620b40e592ba0943d30e7a40c5dc2/34e8a/vue-cli-vanilla-size.png&quot;
+          alt=&quot;Vue CLI vanilla size compared to gzip&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/span&gt;
   &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Here we reduce 64% of the actual size with Gzip.&lt;/strong&gt;&lt;/p&gt;
@@ -138,18 +150,31 @@ There is still some difficult parts with brotli (not available on Node &amp;#x3C
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 70.43010752688173%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAAsSAAALEgHS3X78AAABLElEQVQoz51TPU/DMBDt72Vi4g/wVxhAIJhYK2ABNUkXkECitEiFpWqjJmn9dR/mEpPiqhlorefzy51fcnd2ekRkrTXGaK0DEY//3+hti2vLRCvDVhlX5ihTVQ5ctzgszJ5ktgOQCYnBMYFD4DbE0R7hv2JjbLHMCSF4492dfEssya/Wa2yq3VustVrMZ4h4iBgAiqoKsT3EIpNFK1UuZ0RwiFiaO57meQESlDYLqO5/N99N231O35Qpgz86S44eY96KpdVyyKPXUdIfDB+G2X2a3KXJ8zwbQzbBtLENYPABL19kXSSWzwL4p8ezi/Ojm+uTy6vj/u3p4vvdWDTgjePaBji24EPhf2kLs8TyRoERtNlJTtjcnF3unOtF1bFnEtQ3E2IBbvjmnwn8B+63MwOVH0z/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Vue CLI compression results&quot;
-        title=&quot;&quot;
-        src=&quot;/static/0d631442de390a6737ca967f30f3263d/dbb61/vue-cli-complete-size.png&quot;
-        srcset=&quot;/static/0d631442de390a6737ca967f30f3263d/19bd1/vue-cli-complete-size.png 163w,
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0d631442de390a6737ca967f30f3263d/50512/vue-cli-complete-size.webp 163w,
+/static/0d631442de390a6737ca967f30f3263d/aeba0/vue-cli-complete-size.webp 325w,
+/static/0d631442de390a6737ca967f30f3263d/001d9/vue-cli-complete-size.webp 650w,
+/static/0d631442de390a6737ca967f30f3263d/0e9bf/vue-cli-complete-size.webp 930w&quot;
+          sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0d631442de390a6737ca967f30f3263d/19bd1/vue-cli-complete-size.png 163w,
 /static/0d631442de390a6737ca967f30f3263d/d3bcb/vue-cli-complete-size.png 325w,
 /static/0d631442de390a6737ca967f30f3263d/dbb61/vue-cli-complete-size.png 650w,
 /static/0d631442de390a6737ca967f30f3263d/17aeb/vue-cli-complete-size.png 930w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-      /&gt;
+          sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/0d631442de390a6737ca967f30f3263d/dbb61/vue-cli-complete-size.png&quot;
+          alt=&quot;Vue CLI compression results&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/span&gt;
   &lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;In conclusion: &quot;Why doing it with Webpack ?&quot;&lt;/h2&gt;
@@ -219,20 +244,35 @@ That is exactly what &lt;a href=&quot;https://developer.mozilla.org/fr/docs/Web/
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 43.0625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAAB30lEQVQoz2VPXWvTUBjO/xO8FL2xtyIbjK1eTBA2ax2WKoWtVlxF3NBtbAxEdLZdG9Mm/bCmaU5yTto062k+miZpyJIWJzrpzNUoCA/PxfP18hIDxGDEnEFGEyqe2vZH0DfFYAQnFpqHjVuhPrUld8hbOu+NutZAIDCiMWQGqHoGaUWo9AClCGWZp6w+G0avy9eLIfsjMTAFzwAEbFGQLSK2CJsFiT2VQUURq+GEM+Dmy/8jdAmTO9bkhtptmCpn4rbZofxefmJ1JjYK5qLhO5MRnFcCCxI6IPXuD1Op90+OB82iLlWGbB6jGgZlDZZlkRSbp0qr1AdliWcwIBXwTeJIvp7DPEv0yV20tdyNrx69u9UG78fduvjmgWNwri154SkDjm3JN9HUQIGOprromdC1Ok6vJe89JTa3by8c3Fh7cecuef/Dy6VScnHx481mPCofZNsnO19S0eaTaHFjqbCfqPGfquhrLb0OMrGWsLf+OUIcHSbi9PN7heWV3MNnqcjb1EKaTmfikWJihdpNZHIb35OPDvdjmVIyS6Ve0Zv57cdsdo1sxHaqr4m/vnZp98ZG2xsCwwXOeedqjPVz0Z30/gTqzFMvLvTLQL9y1ZmLZ07/91T7OdV+OepsjP8BRo+wDydh9I0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;IntersectionObserver support in March 2019&quot;
-        title=&quot;&quot;
-        src=&quot;/static/e853e350b0c155f78b0c301d079c9239/dbb61/intersection-observer-caniuse.png&quot;
-        srcset=&quot;/static/e853e350b0c155f78b0c301d079c9239/19bd1/intersection-observer-caniuse.png 163w,
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e853e350b0c155f78b0c301d079c9239/50512/intersection-observer-caniuse.webp 163w,
+/static/e853e350b0c155f78b0c301d079c9239/aeba0/intersection-observer-caniuse.webp 325w,
+/static/e853e350b0c155f78b0c301d079c9239/001d9/intersection-observer-caniuse.webp 650w,
+/static/e853e350b0c155f78b0c301d079c9239/97fd0/intersection-observer-caniuse.webp 975w,
+/static/e853e350b0c155f78b0c301d079c9239/05607/intersection-observer-caniuse.webp 1300w,
+/static/e853e350b0c155f78b0c301d079c9239/ded3f/intersection-observer-caniuse.webp 1600w&quot;
+          sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e853e350b0c155f78b0c301d079c9239/19bd1/intersection-observer-caniuse.png 163w,
 /static/e853e350b0c155f78b0c301d079c9239/d3bcb/intersection-observer-caniuse.png 325w,
 /static/e853e350b0c155f78b0c301d079c9239/dbb61/intersection-observer-caniuse.png 650w,
 /static/e853e350b0c155f78b0c301d079c9239/6b691/intersection-observer-caniuse.png 975w,
 /static/e853e350b0c155f78b0c301d079c9239/91670/intersection-observer-caniuse.png 1300w,
 /static/e853e350b0c155f78b0c301d079c9239/2f950/intersection-observer-caniuse.png 1600w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-      /&gt;
+          sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/e853e350b0c155f78b0c301d079c9239/dbb61/intersection-observer-caniuse.png&quot;
+          alt=&quot;IntersectionObserver support in March 2019&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/span&gt;
   &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Intersection observer API provides us observe method to check on the visibility of an HTML element using its own ref.
@@ -512,20 +552,35 @@ de TP depuis l&apos;interface de Github Classroom.&lt;/p&gt;
       class=&quot;gatsby-resp-image-background-image&quot;
       style=&quot;padding-bottom: 79.9184505606524%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAAsSAAALEgHS3X78AAABM0lEQVQoz5WTbY+DIBCE/f+/sr1+OQUFXwsFjnvA1mpO294kkk3YZWZn18J7r5USQkzjGGP82SI+QJpzbj5DCHNmQWSMmabJWkvM3W2FpVhKcT5/XS4XvrIsyUzFPNa2rVJKa62a5ubcmn8p7rpO8oCUtWqnaQzec1mgo65rkSBFJUjq+z6fKUDR9Xqddf5F4XxoSRsG8tAPW9jCZ4X7xdbHWidJ1t6MsfDwRPoeoK94gIIGe12dTifahhypY8awwtq5TTGCuIZZK323TWFcA+Fddg4OenauElX5XeJYlVBiwDzSo1afxYy9afC7ZmBDP2Azmpm5y3hTTAZSmU2bQc+I5owfIG3Ysk9vqXaYm6wbzwhmwZ8WY8yQN4TTGhPykvyDWWawnQwJ5t0f42DOL/G6+BcbfqnRKk/9/AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Créer un assignement&quot;
-        title=&quot;&quot;
-        src=&quot;/static/038e52072fd39b5c797e3ffef7dc7148/dbb61/create-assignement.png&quot;
-        srcset=&quot;/static/038e52072fd39b5c797e3ffef7dc7148/19bd1/create-assignement.png 163w,
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/038e52072fd39b5c797e3ffef7dc7148/50512/create-assignement.webp 163w,
+/static/038e52072fd39b5c797e3ffef7dc7148/aeba0/create-assignement.webp 325w,
+/static/038e52072fd39b5c797e3ffef7dc7148/001d9/create-assignement.webp 650w,
+/static/038e52072fd39b5c797e3ffef7dc7148/97fd0/create-assignement.webp 975w,
+/static/038e52072fd39b5c797e3ffef7dc7148/05607/create-assignement.webp 1300w,
+/static/038e52072fd39b5c797e3ffef7dc7148/43f13/create-assignement.webp 1962w&quot;
+          sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/038e52072fd39b5c797e3ffef7dc7148/19bd1/create-assignement.png 163w,
 /static/038e52072fd39b5c797e3ffef7dc7148/d3bcb/create-assignement.png 325w,
 /static/038e52072fd39b5c797e3ffef7dc7148/dbb61/create-assignement.png 650w,
 /static/038e52072fd39b5c797e3ffef7dc7148/6b691/create-assignement.png 975w,
 /static/038e52072fd39b5c797e3ffef7dc7148/91670/create-assignement.png 1300w,
 /static/038e52072fd39b5c797e3ffef7dc7148/2675f/create-assignement.png 1962w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
-      /&gt;
+          sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/038e52072fd39b5c797e3ffef7dc7148/dbb61/create-assignement.png&quot;
+          alt=&quot;Créer un assignement&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/span&gt;
   &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Quelques petites astuces pour créer vos &lt;em&gt;assignements&lt;/em&gt; :&lt;/p&gt;
