@@ -8,6 +8,7 @@
 <url> <loc>https://open-blog.dev/posts/slashgear/github-classroom-pourquoi-le-tester/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/posts/slashgear/kotlin-in-action/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/posts/slashgear/rancher/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://open-blog.dev/posts/swiip/react-hooks-my-introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/browser</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/compression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/conference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -15,15 +16,19 @@
 <url> <loc>https://open-blog.dev/tags/devops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://open-blog.dev/tags/hooks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/images</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://open-blog.dev/tags/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/kotlin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/perfs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/rancher</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://open-blog.dev/tags/recompose</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/teaching</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/tags/webpack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/authors/slashgear</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://open-blog.dev/authors/swiip</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/authors/M6Web</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://open-blog.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
